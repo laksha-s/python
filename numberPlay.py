@@ -4,3 +4,4 @@ def printTriangle(rows):
             print(j, end =" ")
         print()
 printTriangle(10)
+printTriangle(20)
